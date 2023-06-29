@@ -15,3 +15,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+<h1 align="center">
+  <br>
+  <a href=""><img src="" height="256px" width="256px"></a>
+  <br>
+  Tandoor Recipes
+  <br>
+</h1>
