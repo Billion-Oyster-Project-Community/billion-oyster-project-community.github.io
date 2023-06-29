@@ -12,3 +12,5 @@ Welcome to the community built documentation for the <a href="https://www.billio
 
 This project is fully open source and readily available on 
 <a href="https://github.com/Billion-Oyster-Project-Community/billion-oyster-project-community.github.io" target="_blank">GitHub</a>. If you want to contribute to more to the documentation feel free to look at our <a href="#" target="_blank">Contribution Guide</a> and open a pull request!
+
+> This project is not in any way officially affiliated from the Billion Oyster Project.
