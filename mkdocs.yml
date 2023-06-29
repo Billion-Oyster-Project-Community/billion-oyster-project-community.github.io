@@ -21,4 +21,5 @@ plugins:
 
 nav:
   - Home: 'index.md'
-  - Datasets: 'datasets/data.md'
+  - Data: 
+    - Resources: 'datasets/data.md'
