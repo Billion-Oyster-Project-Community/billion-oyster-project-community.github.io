@@ -20,6 +20,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
   <br>
   <a href=""><img src="" height="256px" width="256px"></a>
   <br>
-  Tandoor Recipes
+  Billion Oyster Project Community
   <br>
 </h1>
